@@ -6,8 +6,8 @@
 ##
 
 <div>
-<img height="200cm" src="https://github-readme-stats.vercel.app/api?username=AylaCeleste&show_icons=trueconssow&theme=dracula&include_all_comits=true&count_private=true"/>
-<img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AylaCeleste&layout=compact&langs_count=16&theme=dracula"/>
+<img height="150cm" src="https://github-readme-stats.vercel.app/api?username=AylaCeleste&show_icons=trueconssow&theme=dracula&include_all_comits=true&count_private=true"/>
+<img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AylaCeleste&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ##
