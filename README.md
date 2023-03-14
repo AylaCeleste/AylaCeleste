@@ -1,9 +1,21 @@
-### Oie! Eu sou a Ayla Celeste 
+### Hii! <img height="20px" width="30px" src="https://custom-doodle.com/wp-content/uploads/doodle/hello-kitty-emotions-face/hello-kitty-emotions-face-doodle.gif"/> I'm Aly
+##
 
- - 📚 Estudando Análise e Desenvolvimento de Sistemas <br>
- - 📌 Trabalhando em novos projetos
+ - 🧸 Working on new projects <br>
+ - 🤍 Studiyng different technologies <br>
+ - 🌙 Daydreamin' n creating!
  
 ##
+
+```javascript
+
+const aly = {
+    "flag": "tranny! 🏳️‍⚧️",
+    "pronouns": "she/her",
+    "workingWith": ["JavaScript", "C#"]
+}
+
+```
 
 <div>
 <a href="https://github.com/AylaCeleste">
@@ -14,8 +26,8 @@
 ##
 
 <div style="display: inline_block">
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 </div
