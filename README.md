@@ -2,7 +2,7 @@
 ##
 
  - 🧸 Working on new projects <br>
- - 🤍 Studiyng different technologies <br>
+ - 🤍 Studying different technologies <br>
  - 🌙 Daydreamin' n creating!
  
 ##
