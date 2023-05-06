@@ -12,14 +12,15 @@
 const aly = {
     "flag": "tranny! 🏳️‍⚧️",
     "pronouns": "she/her",
-    "workingWith": ["JavaScript", "C#"]
+    "workingWith": ["JavaScript", "C#", "Python"]
 }
 
 ```
 
 <div>
 <a href="https://github.com/AylaCeleste">
-<img height="150cm" src="https://github-readme-stats.vercel.app/api?username=AylaCeleste&show_icons=trueconssow&theme=dracula&include_all_comits=true&count_private=true"/>
+<img height="150cm" src="https://github-readme-stats.vercel.app/api?username=AylaCeleste&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AylaCeleste&layout=compact&theme=dracula"/>
 </div>
 
 ##
