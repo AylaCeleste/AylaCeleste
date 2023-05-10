@@ -10,9 +10,9 @@
 ```javascript
 
 const aly = {
-    "flag": "tranny! 🏳️‍⚧️",
+    "flag": "🏳️‍⚧️",
     "pronouns": "she/her",
-    "workingWith": ["JavaScript", "C#", "Python"]
+    "workingWith": ["JavaScript", "C#", "Python", "NoSQL"]
 }
 
 ```
