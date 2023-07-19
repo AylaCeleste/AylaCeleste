@@ -3,7 +3,7 @@
 
  - 🧸 Working on new projects <br>
  - 🤍 Studying different technologies <br>
- - 🌙 Daydreamin' n creating!
+ - 🌙 Creating!
  
 ##
 
@@ -12,7 +12,7 @@
 const aly = {
     "flag": "🏳️‍⚧️",
     "pronouns": "she/her",
-    "workingWith": ["JavaScript", "C#", "Python", "NoSQL"]
+    "workingWith": ["TypeScript", "dotnet", "Python", "NoSQL"]
 }
 
 ```
