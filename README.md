@@ -12,7 +12,7 @@
 const aly = {
     "flag": "🏳️‍⚧️",
     "pronouns": "she/her",
-    "workingWith": ["TypeScript", "dotnet", "Python", "NoSQL"]
+    "workingWith": ["TypeScript", "dotnet", "Python", "Java", "AWS"]
 }
 
 ``` 
