@@ -12,7 +12,8 @@
 const aly = {
     "flag": "🏳️‍⚧️",
     "pronouns": "she/her",
-    "workingWith": ["TypeScript", "dotnet", "Python", "Java", "AWS"]
+    "workingWith": ["TypeScript", "dotnet", "Python", "Java", "AWS"],
+    "role": "full-cycle engineer"
 }
 
 ``` 
